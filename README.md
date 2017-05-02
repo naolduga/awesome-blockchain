@@ -119,6 +119,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Semantics](#semantics)
     - [Is Git a Blockchain?](https://www.reddit.com/r/Bitcoin/comments/33s8x0/is_git_a_block_chain_domus_tower_says_yes/)
     - [My Sofa is a Sidechain](http://www.ic.unicamp.br/~stolfi/EXPORT/projects/bitcoin/posts/2015-06-10-my-sofa-is-a-sidechain/main.html)
+    - [What is “Blockchain” anyway?](https://coincenter.org/entry/what-is-blockchain-anyway)
   - [Visionary Articles](#visionary)
     - [Programmable Blockchains in Context](https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e)
 - [The Future](#future)
